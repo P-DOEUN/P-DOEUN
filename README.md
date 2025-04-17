@@ -65,14 +65,6 @@
       alt="Top Languages"
     />
   </p>
-
-  <!-- GitHub 커밋 그래프 -->
-  <p>
-    <img
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=P-DOEUN&theme=forest&bg_color=FFFFFF&color=4E944F&line=8EAF8D&point=2E7D32"
-      alt="Commit Activity Graph"
-      width="100%" height="200"
-    />
   </p>
 
 </div>
