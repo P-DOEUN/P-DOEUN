@@ -1,35 +1,78 @@
 <div align="center">
 
-<br>
+  <!-- 인사말 -->
+  <h3>🌿 Welcome 🌿</h3>
+  <p>
+    Currently studying at university, exploring the worlds of cybersecurity and artificial intelligence.
+  </p>
 
-<h3>🌵STACK🌵</h3>
+  <!-- 구분선 -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:7BAE7F,100:4E944F&height=2&section=header"
+    width="80%"
+    alt="divider"
+  />
 
-  <!-- C++ -->
-  
-  
-  <!-- python -->
-  <img src = "https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <!-- 기술 스택 -->
+  <h2>🍀 Stack 🍀</h2>
 
-<br>
-<br>
+  <h3>Languages</h3>
+  <p>
+    <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="27" />
+  </p>
 
-<!-- tensorflow -->
-  <img src = "https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <!-- KERAS -->
-  <img src = "https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-  <!-- scikitlearn -->
-  <img src = "https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <h3>Machine Learning</h3>
+  <p>
+    <img src="https://custom-icon-badges.demolab.com/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" height="27" />
+    <img src="https://custom-icon-badges.demolab.com/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" height="27" />
+    <img src="https://custom-icon-badges.demolab.com/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="27" />
+  </p>
 
+  <h3>Databases</h3>
+  <p>
+    <img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" height="27" />
+  </p>
 
-<br>
-<br>
+  <h3>Containers</h3>
+  <p>
+    <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" height="27" />
+  </p>
 
-  <!-- nginx -->
-  <img src = "https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <h3>Operating Systems</h3>
+  <p>
+    <img src="https://custom-icon-badges.demolab.com/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu" height="27" />
 
+  </p>
 
+  <!-- 구분선 -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:7BAE7F,100:4E944F&height=2&section=header"
+    width="80%"
+    alt="divider"
+  />
 
-<br>
-<br>
+  <!-- GitHub 통계 -->
+  <h2>🌲 GitHub Stats & Contributions 🌲</h2>
+  <p>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=P-DOEUN&show_icons=true&theme=gruvbox_light&count_private=true"
+      height="165"
+      alt="GitHub Stats"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-DOEUN&langs_count=10&layout=compact&theme=gruvbox_light"
+      height="165"
+      alt="Top Languages"
+    />
+  </p>
 
-![](https://github-readme-stats-gamma-navy.vercel.app/api?username=p-doeun&show_icons=true&count_private=true&theme=city_lights)
+  <!-- GitHub 커밋 그래프 -->
+  <p>
+    <img
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=P-DOEUN&theme=forest&bg_color=FFFFFF&color=4E944F&line=8EAF8D&point=2E7D32"
+      alt="Commit Activity Graph"
+      width="100%" height="200"
+    />
+  </p>
+
+</div>
