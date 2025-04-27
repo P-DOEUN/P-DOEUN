@@ -1,5 +1,11 @@
 <div align="center">
 
+  <!-- 타입 애니메이션 -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=7BAE7F&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+GitHub!;Exploring+Cybersecurity+%26+AI;" 
+    alt="Typing SVG" 
+  />
+
   <!-- 인사말 -->
   <h3>🌿 Welcome 🌿</h3>
   <p>
@@ -41,7 +47,6 @@
   <h3>Operating Systems</h3>
   <p>
     <img src="https://custom-icon-badges.demolab.com/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu" height="27" />
-
   </p>
 
   <!-- 구분선 -->
@@ -64,7 +69,6 @@
       height="165"
       alt="Top Languages"
     />
-  </p>
   </p>
 
 </div>
